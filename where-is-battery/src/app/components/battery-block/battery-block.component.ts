@@ -13,3 +13,5 @@ export class BatteryBlockComponent implements OnInit {
   }
 
 }
+
+console.log("Here is an Error Message Battery-block")

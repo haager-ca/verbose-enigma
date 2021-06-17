@@ -13,3 +13,5 @@ export class BatteryAaaComponent implements OnInit {
   }
 
 }
+
+console.log("Here is an Error Message Battery-aaa")

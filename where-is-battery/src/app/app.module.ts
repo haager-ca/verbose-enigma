@@ -8,6 +8,7 @@ import { HomeComponent } from './components/home/home.component';
 import { BatteryAaaComponent } from './components/battery-aaa/battery-aaa.component';
 import { BatteryAaComponent } from './components/battery-aa/battery-aa.component';
 import { BatteryBlockComponent } from './components/battery-block/battery-block.component';
+import { BatteryAllComponent } from './components/battery-all/battery-all.component';
 
 
 @NgModule({
@@ -17,7 +18,8 @@ import { BatteryBlockComponent } from './components/battery-block/battery-block.
     HomeComponent,
     BatteryAaaComponent,
     BatteryAaComponent,
-    BatteryBlockComponent
+    BatteryBlockComponent,
+    BatteryAllComponent
   ],
   imports: [
     BrowserModule,

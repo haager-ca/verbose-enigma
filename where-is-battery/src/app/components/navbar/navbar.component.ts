@@ -13,3 +13,5 @@ export class NavbarComponent implements OnInit {
   }
 
 }
+
+console.log("Here is an Error Message Navbar")
